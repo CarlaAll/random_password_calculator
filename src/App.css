@@ -15,3 +15,10 @@
   font-weight: lighter;
   line-height: 2em;
 }
+
+footer {
+  margin-top: -50px;
+  text-align: center;
+  font-family: monospace;
+  font-size: 10px;
+}
