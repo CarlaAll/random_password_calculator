@@ -18,7 +18,7 @@ function App() {
         >
           Carla Allenbach
         </a>{" "}
-        and is hosted on{" "}
+        and hosted on{" "}
         <a
           href="https://generate-random-pw.netlify.app/"
           target="_blank"
